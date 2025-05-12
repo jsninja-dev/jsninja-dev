@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hello. I am Rostyslav Kovtun. 👋</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
 
 ###
 
