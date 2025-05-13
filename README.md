@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rostyslavkovtun.rostyslavkovtun&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jsninja-dev.jsninja-dev&"  />
 </div>
 
 ###
@@ -18,7 +18,9 @@
 
 ###
 
-<p align="left">Accomplished Full Stack Developer with 5+ years of expertise in web and blockchain development. I am passionate about delivering high-quality solutions and continuously expanding my technical knowledge to stay at the forefront of technology.</p>
+
+
+<p align="left">Experienced Full Stack Developer with 5+ years of expertise in building scalable web applications. Specialized in both frontend and backend development, with a strong focus on creating robust, maintainable, and high-performance solutions. Proficient in modern JavaScript frameworks, server-side technologies, and database management systems. Committed to writing clean, efficient code and following industry best practices to deliver exceptional user experiences.</p>
 
 ###
 
@@ -26,7 +28,7 @@
 
 ###
 
-<p align="left">• Design and implement scalable applications through the complete development lifecycle, from requirements gathering to deployment and maintenance<br>• Write clean, efficient, and well-documented code following industry best practices<br>• Develop comprehensive automated testing suites to ensure code quality and reliability<br>• Architect and enhance systems to meet evolving business requirements <br>• Quickly grasp complex systems and collaborate effectively with team members to resolve technical challenges<br>• Deliver exceptional service to both internal stakeholders and external clients<br>• Excel both independently and as a collaborative team member</p>
+<p align="left">• Design and implement full-stack applications using modern frameworks and best practices<br>• Develop responsive and interactive user interfaces with optimal performance<br>• Create robust backend services and RESTful APIs<br>• Implement secure authentication and authorization systems<br>• Design and optimize database schemas and queries<br>• Write comprehensive unit and integration tests<br>• Deploy and maintain applications using CI/CD pipelines<br>• Collaborate effectively in agile development environments</p> 
 
 ###
 
@@ -58,8 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
